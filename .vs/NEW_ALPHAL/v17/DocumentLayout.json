@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\identitys\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\identitys\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926065035_newproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NEW_ALPHAL\\Migrations\\20240926065035_newproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926062029_newproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NEW_ALPHAL\\Migrations\\20240926062029_newproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\identitys\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\identitys\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\like\\userlikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\like\\userlikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\new_alphal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\new_alphal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\migrations\\20240924090639_newff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\migrations\\20240924090639_newff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\migrations\\20240924082924_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\migrations\\20240924082924_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\migrations\\20240924164216_dddff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\migrations\\20240924164216_dddff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|c:\\users\\tri09\\source\\repos\\new_alphal\\new_alphal\\migrations\\20240926043854_newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC5AD25-8F99-4249-B902-187E2EF5699B}|NEW_ALPHAL\\NEW_ALPHAL.csproj|solutionrelative:new_alphal\\migrations\\20240926043854_newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:44:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:31:04.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIAwwDgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:45:42.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB8CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:17:11.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:38:05.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADwv44AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:30:38.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240926065035_newproducts.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926065035_newproducts.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Migrations\\20240926065035_newproducts.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926065035_newproducts.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Migrations\\20240926065035_newproducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:50:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Product.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:38:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Comment.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:20:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Identitys\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\Identitys\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Identitys\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\Identitys\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:13:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:44:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Program.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Program.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Program.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:15:02.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240926062029_newproduct.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926062029_newproduct.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Migrations\\20240926062029_newproduct.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926062029_newproduct.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Migrations\\20240926062029_newproduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:20:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240926043854_newuser.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926043854_newuser.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Migrations\\20240926043854_newuser.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240926043854_newuser.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Migrations\\20240926043854_newuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:38:55.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwJ4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:19:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:18:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Identitys\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\Identitys\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Identitys\\ApplicationUser.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\Identitys\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:14:16.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLikes.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Like\\UserLikes.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\Like\\UserLikes.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Like\\UserLikes.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\Like\\UserLikes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:16:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\ProductImage.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:50:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NEW_ALPHAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\NEW_ALPHAL.csproj",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\NEW_ALPHAL.csproj",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\NEW_ALPHAL.csproj",
+              "RelativeToolTip": "NEW_ALPHAL\\NEW_ALPHAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T16:36:30.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240924164216_dddff.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240924164216_dddff.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Migrations\\20240924164216_dddff.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240924164216_dddff.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Migrations\\20240924164216_dddff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:42:16.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\Category.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:49:41.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240924090639_newff.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240924090639_newff.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Migrations\\20240924090639_newff.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240924090639_newff.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Migrations\\20240924090639_newff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:06:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240924082924_NEW.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240924082924_NEW.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Migrations\\20240924082924_NEW.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Migrations\\20240924082924_NEW.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Migrations\\20240924082924_NEW.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:29:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:21:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:18:39.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:18:21.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:20:55.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NEW_ALPHAL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-24T08:16:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:21:40.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Models\\SD.cs",
+              "RelativeToolTip": "NEW_ALPHAL\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:20:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "NEW_ALPHAL\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\NEW_ALPHAL\\NEW_ALPHAL\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "NEW_ALPHAL\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:17:21.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

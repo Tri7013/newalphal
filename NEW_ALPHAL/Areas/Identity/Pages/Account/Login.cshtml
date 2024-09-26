@@ -1,0 +1,154 @@
+﻿@page
+@model LoginModel
+
+
+
+<h1>@ViewData["Title"]</h1>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Nhập - Truyện Nhà Nấm 🍄</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            background-image: url("/images/background.png");
+            /* Bạn cần thay link đến hình nền thực tế */
+
+            background-size: cover; /* Giúp ảnh phủ toàn bộ màn hình */
+            background-position: center; /* Canh giữa ảnh nền */
+            background-repeat: no-repeat; /* Không lặp lại ảnh nền */
+            background-attachment: fixed; /* Giữ cố định ảnh khi cuộn trang */
+        }
+
+        .s {
+            max-width: 400px;
+            margin: 100px auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border: 1px solid #eaeaea;
+            text-align: center;
+        }
+
+            .s h2 {
+                font-size: 24px;
+                color: #444;
+                margin-bottom: 20px;
+            }
+
+            .s .form-group {
+                text-align: left;
+                margin-bottom: 15px;
+            }
+
+                .s .form-group label {
+                    font-weight: bold;
+                    display: block;
+                    margin-bottom: 5px;
+                    color: #555;
+                }
+
+                .s .form-group input {
+                    width: 100%;
+                    padding: 10px;
+                    font-size: 16px;
+                    border: 1px solid #ccc;
+                    border-radius: 5px;
+                }
+
+                    .s .form-group input:focus {
+                        border-color: #3498db;
+                        outline: none;
+                    }
+
+            .s .form-group-checkbox {
+                display: flex;
+                align-items: center;
+            }
+
+                .s .form-group-checkbox input {
+                    margin-right: 10px;
+                }
+
+                .s .form-group-checkbox label {
+                    color: #555;
+                }
+
+            .s .btn-submit {
+                width: 100%;
+                padding: 10px;
+                background-color: #3498db;
+                color: white;
+                font-size: 16px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                margin-top: 15px;
+            }
+
+                .s .btn-submit:hover {
+                    background-color: #2980b9;
+                }
+
+            .s .links {
+                margin-top: 10px;
+                font-size: 14px;
+                color: #555;
+            }
+
+                .s .links a {
+                    color: #3498db;
+                    text-decoration: none;
+                    margin: 0 5px;
+                }
+
+                    .s .links a:hover {
+                        text-decoration: underline;
+                    }
+    </style>
+</head>
+
+<body>
+
+    <div class="s">
+        <h2>Đăng Nhập</h2>
+        <form action="#" method="post">
+            <div class="form-group">
+                <label asp-for="Input.Login">Email hoặc Tên đăng nhập</label>
+                <input asp-for="Input.Login" class="form-control" />
+                <span asp-validation-for="Input.Login" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.Password" class="form-label">Password</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group-checkbox">
+                <label asp-for="Input.RememberMe" class="form-label">
+                    <input class="form-check-input" asp-for="Input.RememberMe" />
+                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                </label>
+            </div>
+
+            <button type="submit" class="btn-submit">Đăng Nhập</button>
+        </form>
+        <div class="links">
+            <a href="#">Bạn quên mật khẩu?</a> · <a href="register">Bạn chưa có tài khoản?</a>
+        </div>
+    </div>
+
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+</body>

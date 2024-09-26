@@ -1,0 +1,243 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Ký - Truyện Nhà Nấm 🍄</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            background-color: #f8f9fa;
+            background-image: url("/images/background.png");
+            /* Bạn cần thay link đến hình nền thực tế */
+
+            background-size: cover; /* Giúp ảnh phủ toàn bộ màn hình */
+            background-position: center; /* Canh giữa ảnh nền */
+            background-repeat: no-repeat; /* Không lặp lại ảnh nền */
+            background-attachment: fixed; /* Giữ cố định ảnh khi cuộn trang */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid #eaeaea;
+        }
+
+        h2 {
+            color: white;
+            background-color: #2f80ed;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 24px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .breadcrumb {
+            margin-bottom: 20px;
+            color: #95a5a6;
+            font-size: 14px;
+        }
+
+            .breadcrumb a {
+                text-decoration: none;
+                color: #2f80ed;
+            }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+            .form-group label {
+                display: block;
+                font-weight: bold;
+                margin-bottom: 5px;
+                color: #333;
+            }
+
+            .form-group input {
+                width: 100%;
+                padding: 10px;
+                font-size: 16px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                background-color: #f7f7f7;
+            }
+
+                .form-group input:focus {
+                    outline: none;
+                    border-color: #3498db;
+                    background-color: #fff;
+                }
+
+            .form-group .password-toggle {
+                position: relative;
+            }
+
+                .form-group .password-toggle input {
+                    padding-right: 40px;
+                }
+
+                .form-group .password-toggle .toggle-btn {
+                    position: absolute;
+                    right: 10px;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    cursor: pointer;
+                    color: #3498db;
+                }
+
+        .btn-submit {
+            width: 100%;
+            padding: 15px;
+            background-color: #2f80ed;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+            text-transform: uppercase;
+        }
+
+            .btn-submit:hover {
+                background-color: #1960a7;
+            }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #95a5a6;
+        }
+
+            .footer a {
+                color: #3498db;
+                text-decoration: none;
+            }
+
+        .info {
+            text-align: center;
+            font-size: 14px;
+            color: #95a5a6;
+            margin-top: 10px;
+        }
+
+            .info strong {
+                color: #3498db;
+            }
+
+        .disclaimer {
+            margin-top: 20px;
+            font-size: 12px;
+            color: #6c757d;
+            text-align: center;
+            background-color: #f1f3f5;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+            .disclaimer span {
+                display: block;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="breadcrumb">
+            <i class="fa-solid fa-house"></i> <a href="main.html">Trang Chủ</a> / Đăng Ký
+        </div>
+        <h2>Đăng Ký</h2>
+
+        <form id="registerForm" asp-page="/Account/Register" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <div class="form-group">
+                <label for="username">Tên đăng nhập</label>
+                <input type="text" id="username" name="Input.LoginName" asp-for="Input.LoginName" class="form-control" autocomplete="username" placeholder="Ví dụ: MyCayBunBo" required>
+                <span asp-validation-for="Input.LoginName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group password-toggle">
+                <label for="password">Mật khẩu</label>
+                <input type="password" id="password" name="Input.Password" asp-for="Input.Password" class="form-control" autocomplete="new-password" placeholder="Càng khó càng tốt" required>
+                <i class="toggle-btn" onclick="togglePassword('password')">👁️</i> <!-- Nút hiện mật khẩu -->
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group password-toggle">
+                <label for="confirm_password">Xác nhận mật khẩu</label>
+                <input type="password" id="confirm_password" name="Input.ConfirmPassword" asp-for="Input.ConfirmPassword" class="form-control" placeholder="Nhớ nhập giống ở trên" required>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Địa chỉ Email *</label>
+                <input type="email" id="email" name="Input.Email" asp-for="Input.Email" class="form-control" autocomplete="email" placeholder="Ví dụ: hachuuthanh@gmail.com" required>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="display_name">Tên hiển thị</label>
+                <input type="text" id="display_name" name="Input.FullName" asp-for="Input.FullName" class="form-control" autocomplete="FullName" placeholder="Ví dụ: Phuong">
+                <span asp-validation-for="Input.FullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating">
+                <select asp-for="Input.Role" asp-items="Model.Input.RoleList" class="form-control">
+                    <option disabled selected>- Chọn vai trò</option>
+                </select>
+            </div>
+
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+        </form>
+
+        <div class="footer">
+            Bạn đã có tài khoản? <a href="login">Đăng nhập tại đây.</a>
+        </div>
+        <div class="info">
+            Thông tin của bạn được sử dụng để quản lý bình luận và thực hiện một số chức năng khác trên web. Chúng tôi không sử dụng thông tin của bạn cho bất kỳ mục đích nào khác.
+        </div>
+        <div class="disclaimer">
+            <span>Mọi thông tin trên web đều được sưu tầm sử dụng có phí lẫn không.</span>
+            <span>Thế giới truyện tranh hoàn toàn miễn phí.</span>
+            <span>Liên hệ: truyennhaNam@gmail.com</span>
+        </div>
+    </div>
+
+    <script>
+        function togglePassword(id) {
+            const input = document.getElementById(id);
+            if (input.type === "password") {
+                input.type = "text";
+            } else {
+                input.type = "password";
+            }
+        }
+    </script>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+</body>
+
+
+
+
